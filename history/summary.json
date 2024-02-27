@@ -4,19 +4,19 @@
     "url": "https://cloud.snigdhaos.org",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.snigdhaos.org.ico",
     "slug": "snigdhaos-cloud",
-    "status": "down",
-    "uptime": "95.82%",
-    "uptimeDay": "95.82%",
-    "uptimeWeek": "95.82%",
-    "uptimeMonth": "95.82%",
-    "uptimeYear": "95.82%",
-    "time": 842,
-    "timeDay": 842,
-    "timeWeek": 842,
-    "timeMonth": 842,
-    "timeYear": 842,
+    "status": "up",
+    "uptime": "94.92%",
+    "uptimeDay": "94.92%",
+    "uptimeWeek": "94.92%",
+    "uptimeMonth": "94.92%",
+    "uptimeYear": "94.92%",
+    "time": 773,
+    "timeDay": 773,
+    "timeWeek": 773,
+    "timeMonth": 773,
+    "timeYear": 773,
     "dailyMinutesDown": {
-      "2024-02-27": 58
+      "2024-02-27": 71
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/discuss.snigdhaos.org.ico",
     "slug": "snigdhaos-discuss",
     "status": "down",
-    "uptime": "69.03%",
-    "uptimeDay": "69.03%",
-    "uptimeWeek": "69.03%",
-    "uptimeMonth": "69.03%",
-    "uptimeYear": "69.03%",
+    "uptime": "68.38%",
+    "uptimeDay": "68.38%",
+    "uptimeWeek": "68.38%",
+    "uptimeMonth": "68.38%",
+    "uptimeYear": "68.38%",
     "time": 833,
     "timeDay": 833,
     "timeWeek": 833,
     "timeMonth": 833,
     "timeYear": 833,
     "dailyMinutesDown": {
-      "2024-02-27": 431
+      "2024-02-27": 444
     }
   }
 ]
