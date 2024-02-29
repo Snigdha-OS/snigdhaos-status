@@ -1,12 +1,17 @@
 # Change these first
 owner: Snigdha-OS # Your GitHub organization or username, where this repository lives
 repo: snigdhaos-status # The name of this repository
+assignees:
+  - eshanized
+  - iconized
 
 sites:
   - name: SNIGDHAOS-CLOUD
     url: https://cloud.snigdhaos.org
   - name: SNIGDHAOS-DISCUSS
     url: https://discuss.snigdhaos.org
+  - name: SNIGDHAOS-TOOLS
+    url: https://tools.snigdhaos.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -15,13 +20,16 @@ status-website:
   baseUrl: /snigdhaos-status
   logoUrl: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/svg-filled/snigdhaos-teal.svg
   name: Snigdha OS Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "Am I Running?"
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  theme: night
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Home
+      href: https://snigdhaos.org/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
