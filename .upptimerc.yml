@@ -6,13 +6,9 @@ assignees:
   - iconized
 
 sites:
-  - name: SNIGDHAOS-CLOUD
-    url: https://cloud.snigdhaos.org
-  - name: SNIGDHAOS-FORUM
-    url: https://forum.snigdhaos.org
-  - name: SNIGDHAOS-TOOLS
-    url: https://tools.snigdhaos.org
-
+  - name: GOOGLE
+    url: https://google.com
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
