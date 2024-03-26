@@ -7,8 +7,19 @@ assignees:
   - Snigdha-OS
 
 sites:
-  - name: GOOGLE
-    url: https://google.com
+  - name: SNIGDHAOS-ORG
+    url: https://snigdhaos.org
+  - name: SNIGDHAOS-CLOUD
+    url: https://cloud.snigdhaos.org
+  - name: SNIGDHAOS-FORUM
+    url: https://forum.snigdhaos.org
+  - name: SNIGDHAOS-DOCS
+    url: https://docs.snigdhaos.org
+  - name: SNIGDHAOS-CORE
+    url: https://snosmirror.github.io/snigdhaos-core/
+  - name: SNIGDHAOS-EXTRA
+    url: https://snosmirror.github.io/snigdhaos-extra/
+
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -27,8 +38,10 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Home
       href: https://snigdhaos.org/
-    - title: Cloud
-      href: https://cloud.snigdhaos.org/
+
+commitMessages:
+  commitAuthorName: "SnigdhaOS-bot"
+  commitAuthorEmail: "bot@snigdhaos.org"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
