@@ -1,9 +1,10 @@
 # Change these first
-owner: Snigdha-OS # Your GitHub organization or username, where this repository lives
-repo: snigdhaos-status # The name of this repository
+owner: Snigdha-OS
+repo: snigdhaos-status
 assignees:
   - eshanized
   - iconized
+  - Snigdha-OS
 
 sites:
   - name: GOOGLE
@@ -17,7 +18,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/svg-filled/snigdhaos-teal.svg
   name: Snigdha OS Status
   introTitle: "Am I Running?"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Powered by Upptime
   theme: night
   navbar:
     - title: Status
@@ -26,6 +27,8 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Home
       href: https://snigdhaos.org/
+    - title: Cloud
+      href: https://cloud.snigdhaos.org/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
