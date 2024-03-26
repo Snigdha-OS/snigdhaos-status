@@ -26,7 +26,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: status.snigdhaos.org
   baseUrl: /snigdhaos-status
-  logoUrl: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/svg-filled/snigdhaos-teal.svg
+  logoUrl: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/v2/snigdhaos.svg
+  faviconSvg: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/v2/snigdhaos.svg
   name: Snigdha OS Status
   introTitle: "Am I Running?"
   introMessage: Powered by Upptime
