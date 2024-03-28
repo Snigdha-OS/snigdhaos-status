@@ -31,7 +31,7 @@ status-website:
   name: Snigdha OS Status
   introTitle: "Am I Running?"
   introMessage: Powered by Upptime
-  theme: dark
+  theme: night
   navbar:
     - title: Status
       href: /
