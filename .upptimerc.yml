@@ -8,13 +8,17 @@ assignees:
 
 sites:
   - name: SNIGDHAOS-ORG
+    url: https://snigdhaos.org
+  - name: SNIGDHAOS-IO
     url: https://snigdha-os.github.io
   - name: SNIGDHAOS-CLOUD
     url: https://cloud.snigdhaos.org
   - name: SNIGDHAOS-FORUM
     url: https://forum.snigdhaos.org
   - name: SNIGDHAOS-DOCS
-    url: https://docs.snigdhaos.org
+    url: https://snigdhaos.org/documentation/
+  - name: SNIGDHAOS-IODOCS
+    url: https://snigdha-os.github.io/documentation/
   - name: SNIGDHAOS-CORE
     url: https://snosmirror.github.io/snigdhaos-core/
   - name: SNIGDHAOS-EXTRA
