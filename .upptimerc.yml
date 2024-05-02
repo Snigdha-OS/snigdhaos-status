@@ -4,25 +4,50 @@ repo: snigdhaos-status
 assignees:
   - eshanized
   - iconized
-  - Snigdha-OS
 
 sites:
   - name: SNIGDHAOS-ORG
     url: https://snigdhaos.org
+    icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
+    assignees:
+      - eshanized
   - name: SNIGDHAOS-IO
     url: https://snigdha-os.github.io
+    icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
+    assignees:
+      - eshanized
   - name: SNIGDHAOS-CLOUD
     url: https://cloud.snigdhaos.org
+    icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
+    assignees:
+      - eshanized
   - name: SNIGDHAOS-FORUM
     url: https://forum.snigdhaos.org
+    icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
+    assignees:
+      - eshanized
   - name: SNIGDHAOS-DOCS
     url: https://snigdhaos.org/documentation/
+    icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
+    assignees:
+      - eshanized
   - name: SNIGDHAOS-IODOCS
     url: https://snigdha-os.github.io/documentation/
+    assignees:
+      - eshanized
+    icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
+    assignees:
+      - eshanized
   - name: SNIGDHAOS-CORE
     url: https://snosmirror.github.io/snigdhaos-core/
+    icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
+    assignees:
+      - eshanized
   - name: SNIGDHAOS-EXTRA
     url: https://snosmirror.github.io/snigdhaos-extra/
+    icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
+    assignees:
+      - eshanized
 
   
 status-website:
@@ -30,8 +55,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: status.snigdhaos.org
   baseUrl: /snigdhaos-status
-  logoUrl: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/v2/snigdhaos.svg
-  faviconSvg: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/v2/snigdhaos.svg
+  logoUrl: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
+  faviconSvg: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
   name: Snigdha OS Status
   introTitle: "Am I Running?"
   introMessage: Powered by Upptime
