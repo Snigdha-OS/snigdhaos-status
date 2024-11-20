@@ -4,21 +4,21 @@ repo: snigdhaos-status
 assignees:
   - eshanized
 sites:
-  - name: SNIGDHAOS-ORG
-    url: https://snigdhaos.org
-    icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
+  # - name: SNIGDHAOS-ORG
+  #   url: https://snigdhaos.org
+  #   icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
   - name: SNIGDHAOS-IO
     url: https://snigdha-os.github.io
     icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
   - name: SNIGDHAOS-CLOUD
-    url: https://cloud.snigdhaos.org
-    icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
-  - name: SNIGDHAOS-FORUM
+  #   url: https://cloud.snigdhaos.org
+  #   icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
+  # - name: SNIGDHAOS-FORUM
     url: https://forum.snigdhaos.org
     icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
-  - name: SNIGDHAOS-DOCS
-    url: https://snigdhaos.org/documentation/
-    icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
+  # - name: SNIGDHAOS-DOCS
+  #   url: https://snigdhaos.org/documentation/
+  #   icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
   - name: SNIGDHAOS-IODOCS
     url: https://snigdha-os.github.io/documentation/
     icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
