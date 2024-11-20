@@ -10,10 +10,10 @@ sites:
   - name: SNIGDHAOS-IO
     url: https://snigdha-os.github.io
     icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
-  - name: SNIGDHAOS-CLOUD
+  # - name: SNIGDHAOS-CLOUD
   #   url: https://cloud.snigdhaos.org
   #   icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
-  # - name: SNIGDHAOS-FORUM
+  - name: SNIGDHAOS-FORUM
     url: https://forum.snigdhaos.org
     icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
   # - name: SNIGDHAOS-DOCS
