@@ -68,5 +68,5 @@ jobs:
           github_token: ${{ secrets.GH_PAT || github.token }}
           publish_dir: "site/status-page/__sapper__/export/"
           force_orphan: "false"
-          user_name: "SnigdhaOS-bot"
-          user_email: "bot@snigdhaos.org"
+          user_name: "Eshan Roy"
+          user_email: "m.eshanized@gmail.com"
