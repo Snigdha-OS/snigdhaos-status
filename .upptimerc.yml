@@ -4,30 +4,30 @@ repo: snigdhaos-status
 assignees:
   - eshanized
 sites:
-  # - name: SNIGDHAOS-ORG
-  #   url: https://snigdhaos.org
-  #   icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
+  - name: SNIGDHAOS-ORG
+    url: https://snigdhaos.org
+    icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
   - name: SNIGDHAOS-IO
     url: https://snigdha-os.github.io
-    icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
+    icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
   # - name: SNIGDHAOS-CLOUD
   #   url: https://cloud.snigdhaos.org
-  #   icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
-  # - name: SNIGDHAOS-FORUM
-  #   url: https://forum.snigdhaos.org
-  #   icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
+  #   icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
+  - name: SNIGDHAOS-FORUM
+    url: https://forum.snigdhaos.org
+    icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
   # - name: SNIGDHAOS-DOCS
   #   url: https://snigdhaos.org/documentation/
-  #   icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
+  #   icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
   - name: SNIGDHAOS-IODOCS
     url: https://snigdha-os.github.io/documentation/
-    icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
+    icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
   - name: SNIGDHAOS-CORE
     url: https://snmirror.github.io/snigdhaos-core/
-    icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
+    icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
   - name: SNIGDHAOS-EXTRA
     url: https://snmirror.github.io/snigdhaos-extra/
-    icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
+    icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
 
   
 status-website:
@@ -35,8 +35,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: status.snigdhaos.org
   baseUrl: /snigdhaos-status
-  logoUrl: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
-  faviconSvg: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/master/2024.4/snigdhaos-face.svg
+  logoUrl: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
+  faviconSvg: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
   name: Snigdha OS Status
   introTitle: "Am I Running?"
   introMessage: Powered by Upptime
