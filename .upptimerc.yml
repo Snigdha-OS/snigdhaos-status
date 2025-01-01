@@ -11,9 +11,9 @@ sites:
   - name: SNIGDHAOS-IO
     url: https://snigdha-os.github.io
     icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
-  # - name: SNIGDHAOS-CLOUD
-  #   url: https://cloud.snigdhaos.org
-  #   icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
+  - name: SNIGDHAOS-PACKAGE_BROWSER
+    url: https://snigdha-os.github.io/package-browser/
+    icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
   - name: SNIGDHAOS-FORUM
     url: https://forum.snigdhaos.org
     icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
@@ -24,7 +24,7 @@ sites:
     url: https://snigdha-os.github.io/documentation/
     icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
   - name: SNIGDHAOS-CORE
-    url: https://snmirror.github.io/snigdhaos-core/
+    url: https://snigdha-os.github.io/snigdhaos-core/
     icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
   - name: SNIGDHAOS-EXTRA
     url: https://snmirror.github.io/snigdhaos-extra/
