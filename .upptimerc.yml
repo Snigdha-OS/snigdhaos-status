@@ -24,10 +24,10 @@ sites:
     url: https://snigdha-os.github.io/documentation/
     icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
   - name: SNIGDHAOS-CORE
-    url: https://snigdha-os.github.io/snigdhaos-core
+    url: https://snigdha-os.github.io/snigdhaos-core/
     icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
   - name: SNIGDHAOS-EXTRA
-    url: https://snmirror.github.io/snigdhaos-extra/
+    url: https://snigdha-os.github.io/snigdhaos-extra/
     icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
 
   
