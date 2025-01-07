@@ -17,9 +17,9 @@ sites:
   - name: SNIGDHAOS-FORUM
     url: https://forum.snigdhaos.org
     icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
-  # - name: SNIGDHAOS-DOCS
-  #   url: https://snigdhaos.org/documentation/
-  #   icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
+  - name: SNIGDHAOS-TOOLS-DOCS
+    url: https://snigdha-os.github.io/snigdhaos-tools/
+    icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
   - name: SNIGDHAOS-IODOCS
     url: https://snigdha-os.github.io/documentation/
     icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
