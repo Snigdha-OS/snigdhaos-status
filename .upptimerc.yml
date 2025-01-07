@@ -5,28 +5,28 @@ assignees:
   - eshanized
   - d3v1l0n
 sites:
-  - name: SNIGDHAOS-ORG
+  - name: SNIGDHAOS.ORG
     url: https://snigdhaos.org
     icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
-  - name: SNIGDHAOS-IO
+  - name: SNIGDHAOS.GITHUB.IO
     url: https://snigdha-os.github.io
     icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
-  - name: SNIGDHAOS-PACKAGE_BROWSER
+  - name: SNIGDHAOS.GITHUB.IO/PACKAGE-BROWSER
     url: https://snigdha-os.github.io/package-browser/
     icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
-  - name: SNIGDHAOS-FORUM
+  - name: FORUM.SNIGDHAOS.ORG
     url: https://forum.snigdhaos.org
     icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
-  - name: SNIGDHAOS-TOOLS-DOCS
+  - name: SNIGDHAOS.GITHUB.IO/SNIGDHAOS-TOOLS
     url: https://snigdha-os.github.io/snigdhaos-tools/
     icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
-  - name: SNIGDHAOS-IODOCS
+  - name: SNIGDHAOS.GITHUB.IO/DOCUMENTATION
     url: https://snigdha-os.github.io/documentation/
     icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
-  - name: SNIGDHAOS-CORE
+  - name: SNIGDHAOS.GITHUB.IO/SNIGDHAOS-CORE
     url: https://snigdha-os.github.io/snigdhaos-core/
     icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
-  - name: SNIGDHAOS-EXTRA
+  - name: SNIGDHAOS.GITHUB.IO/SNIGDHAOS-EXTRA
     url: https://snigdha-os.github.io/snigdhaos-extra/
     icon: https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg
 
