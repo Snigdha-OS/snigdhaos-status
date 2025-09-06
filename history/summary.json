@@ -4,18 +4,19 @@
     "url": "https://snigdhaos.org",
     "icon": "https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg",
     "slug": "snigdhaos-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.17%",
     "uptimeYear": "99.31%",
     "time": 1307,
-    "timeDay": 5238,
-    "timeWeek": 2001,
-    "timeMonth": 1756,
+    "timeDay": 3223,
+    "timeWeek": 1968,
+    "timeMonth": 1750,
     "timeYear": 1353,
     "dailyMinutesDown": {
+      "2025-09-06": 0,
       "2025-09-03": 20,
       "2025-09-02": 40,
       "2025-08-27": 22,
@@ -90,8 +91,7 @@
       "2025-01-20": 16,
       "2025-01-19": 18,
       "2025-01-18": 39,
-      "2025-01-16": 23,
-      "2025-01-15": 17
+      "2025-01-16": 23
     }
   },
   {
@@ -135,18 +135,19 @@
     "url": "https://forum.snigdhaos.org",
     "icon": "https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg",
     "slug": "forum-snigdhaos-org",
-    "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.26%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "98.91%",
-    "uptimeYear": "99.25%",
-    "time": 2988,
-    "timeDay": 3144,
-    "timeWeek": 3502,
-    "timeMonth": 3455,
-    "timeYear": 2988,
+    "uptimeYear": "99.26%",
+    "time": 2986,
+    "timeDay": 2635,
+    "timeWeek": 3410,
+    "timeMonth": 3433,
+    "timeYear": 2986,
     "dailyMinutesDown": {
+      "2025-09-06": 0,
       "2025-09-03": 20,
       "2025-09-02": 40,
       "2025-08-27": 22,
@@ -221,8 +222,7 @@
       "2025-02-11": 2,
       "2025-02-09": 21,
       "2025-02-08": 18,
-      "2025-02-06": 57,
-      "2025-02-04": 19
+      "2025-02-06": 57
     }
   },
   {
