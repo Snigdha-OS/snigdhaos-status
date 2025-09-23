@@ -5,18 +5,18 @@
     "icon": "https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg",
     "slug": "snigdhaos-org",
     "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.36%",
+    "uptime": "99.35%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.35%",
     "time": 1304,
     "timeDay": 1068,
     "timeWeek": 1439,
     "timeMonth": 1663,
-    "timeYear": 1369,
+    "timeYear": 1370,
     "dailyMinutesDown": {
-      "2025-09-22": 25,
+      "2025-09-22": 19,
       "2025-09-20": 17,
       "2025-09-18": 23,
       "2025-09-08": 22,
@@ -91,7 +91,8 @@
       "2025-02-04": 40,
       "2025-01-29": 16,
       "2025-01-24": 27,
-      "2025-01-20": 16
+      "2025-01-20": 16,
+      "2025-01-19": 18
     }
   },
   {
@@ -108,7 +109,7 @@
     "time": 121,
     "timeDay": 88,
     "timeWeek": 132,
-    "timeMonth": 143,
+    "timeMonth": 142,
     "timeYear": 121,
     "dailyMinutesDown": {}
   },
@@ -126,7 +127,7 @@
     "time": 54,
     "timeDay": 19,
     "timeWeek": 61,
-    "timeMonth": 64,
+    "timeMonth": 62,
     "timeYear": 54,
     "dailyMinutesDown": {}
   },
@@ -137,17 +138,17 @@
     "slug": "forum-snigdhaos-org",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "99.31%",
     "time": 3019,
     "timeDay": 2473,
     "timeWeek": 3606,
-    "timeMonth": 3552,
+    "timeMonth": 3507,
     "timeYear": 3019,
     "dailyMinutesDown": {
-      "2025-09-22": 25,
+      "2025-09-22": 19,
       "2025-09-20": 17,
       "2025-09-18": 23,
       "2025-09-08": 22,
@@ -222,7 +223,8 @@
       "2025-02-17": 56,
       "2025-02-15": 31,
       "2025-02-12": 96,
-      "2025-02-11": 2
+      "2025-02-11": 2,
+      "2025-02-09": 21
     }
   },
   {
@@ -239,7 +241,7 @@
     "time": 54,
     "timeDay": 18,
     "timeWeek": 67,
-    "timeMonth": 67,
+    "timeMonth": 65,
     "timeYear": 54,
     "dailyMinutesDown": {}
   },
@@ -257,7 +259,7 @@
     "time": 58,
     "timeDay": 24,
     "timeWeek": 72,
-    "timeMonth": 70,
+    "timeMonth": 67,
     "timeYear": 58,
     "dailyMinutesDown": {}
   },
@@ -275,7 +277,7 @@
     "time": 55,
     "timeDay": 37,
     "timeWeek": 68,
-    "timeMonth": 67,
+    "timeMonth": 63,
     "timeYear": 55,
     "dailyMinutesDown": {}
   },
@@ -293,7 +295,7 @@
     "time": 54,
     "timeDay": 24,
     "timeWeek": 65,
-    "timeMonth": 58,
+    "timeMonth": 56,
     "timeYear": 54,
     "dailyMinutesDown": {}
   }
