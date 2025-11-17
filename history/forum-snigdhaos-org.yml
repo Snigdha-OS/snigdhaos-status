@@ -1,7 +1,7 @@
 url: https://forum.snigdhaos.org
-status: up
-code: 200
-responseTime: 4616
-lastUpdated: 2025-11-17T17:45:46.802Z
+status: down
+code: 429
+responseTime: 1050
+lastUpdated: 2025-11-17T19:47:22.850Z
 startTime: 2025-01-07T20:58:40.986Z
 generator: Upptime <https://github.com/upptime/upptime>
