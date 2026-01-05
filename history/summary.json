@@ -133,18 +133,19 @@
     "url": "https://forum.snigdhaos.org",
     "icon": "https://raw.githubusercontent.com/Snigdha-OS/snigdhaos-assets/refs/heads/master/2024/svg/Snigdha%20OS%20Favicon.svg",
     "slug": "forum-snigdhaos-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "75.73%",
+    "uptimeDay": "79.31%",
     "uptimeWeek": "83.84%",
     "uptimeMonth": "95.10%",
     "uptimeYear": "99.37%",
-    "time": 2831,
-    "timeDay": 788,
-    "timeWeek": 911,
-    "timeMonth": 1504,
-    "timeYear": 2831,
+    "time": 2830,
+    "timeDay": 806,
+    "timeWeek": 912,
+    "timeMonth": 1502,
+    "timeYear": 2830,
     "dailyMinutesDown": {
+      "2026-01-05": 0,
       "2026-01-04": 460,
       "2026-01-03": 192,
       "2026-01-02": 381,
@@ -188,7 +189,7 @@
       "2025-09-18": 23,
       "2025-09-08": 22,
       "2025-09-03": 20,
-      "2025-09-02": 40
+      "2025-09-02": 17
     }
   },
   {
